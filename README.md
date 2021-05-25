@@ -6,3 +6,4 @@
 
 # 正誤表
 
+正誤表はこちら(https://github.com/DAE-Code/DAE_Book/blob/main/errata.md)です．申し訳ございませんでした．．．
