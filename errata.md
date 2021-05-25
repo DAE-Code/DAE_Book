@@ -9,4 +9,4 @@
 |頁|行|誤|正|
 |---|---|---|---|
 |11|13|濃色部分|淡色部分|
-|21|18|<a href="https://www.codecogs.com/eqnedit.php?latex=\bg_white&space;\fn_jvn&space;p(y_{1:y})" target="_blank"><img src="https://latex.codecogs.com/png.latex?\bg_white&space;\fn_jvn&space;p(y_{1:y})" title="p(y_{1:y})" /></a>|・・・|
+|21|18|<a href="https://www.codecogs.com/eqnedit.php?latex=p(\mathbf{\textit{}y}_{1:y})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?p(\mathbf{\textit{}y}_{1:y})" title="p(\mathbf{\textit{}y}_{1:y})" /></a>|・・・|
