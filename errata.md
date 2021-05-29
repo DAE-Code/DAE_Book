@@ -35,3 +35,5 @@
 |106|図4.16|<img src="https://latex.codecogs.com/gif.latex?N(0,\sigma_v^2)" title="N(0,\sigma_v^2)" />|<img src="https://latex.codecogs.com/gif.latex?N(\mathbf{x}_t,Q_t)" title="N(\mathbf{x}_t,Q_t)" />|
 |113|1行目|･･･から初期および観測誤差分散が小さい方が･･･|･･･から初期アンサンブル分散が大きく，また，観測誤差分散が小さい場合に･･･|
 |141|下から2行目|ここでは単位行列，･･･|ここで<img src="https://latex.codecogs.com/gif.latex?I" title="I" />は単位行列，･･･|
+|166|9行目|ディラックのデルタ関数|クロネッカーのデルタ|
+|172|式(6.16)|<img src="https://latex.codecogs.com/gif.latex?\cdots\approx-\frac{n}{2}\ln(\sigma^2)-\frac{n}{2}\left&space;\|\Phi&space;\right&space;\|" title="\cdots\approx-\frac{n}{2}\ln(\sigma^2)-\frac{n}{2}\left \|\Phi \right \|" />|<img src="https://latex.codecogs.com/gif.latex?\cdots\approx-\frac{N}{2}\ln(\sigma^2)-\frac{1}{2}\left&space;\|\Phi&space;\right&space;\|" title="\cdots\approx-\frac{N}{2}\ln(\sigma^2)-\frac{1}{2}\left \|\Phi \right \|" />|
