@@ -4,7 +4,7 @@
 |---|---|---|---|---|
 |100|下から3行目|・・・|各行の要素の和|2021/05/25|
 
-## 初版第1刷(2021/01/15発行)の誤植 --> 初版第2刷で修正
+## 初版第1刷(2021/01/15発行)の誤植 --> 初版第2刷で修正されております
 
 |頁|場所|誤|正|
 |---|---|---|---|
@@ -33,3 +33,5 @@
 |97|2行目|図4.9(a)に示すように･･･|図4.9(a1)に示すように･･･|
 |99|式(4.15)|<img src="https://latex.codecogs.com/gif.latex?\cdots&space;\begin{bmatrix}&space;\cdots&space;&&space;\tilde&space;u_{i&plus;\frac{1}{2},j}^{t\|t-1,1}&space;&&space;\cdots&space;&&space;\tilde&space;v_{i&plus;\frac{1}{2},j}^{t\|t-1,1}&space;&&space;\cdots&space;\\&space;&&space;&&space;\vdots&space;&&space;&&space;\\&space;\cdots&space;&&space;\tilde&space;u_{i&plus;\frac{1}{2},j}^{t\|t-1,1}&space;&&space;\cdots&space;&&space;\tilde&space;v_{i&plus;\frac{1}{2},j}^{t\|t-1,N}&space;&&space;\cdots&space;\end{bmatrix}" title="\cdots \begin{bmatrix} \cdots & \tilde u_{i+\frac{1}{2},j}^{t\|t-1,1} & \cdots & \tilde v_{i+\frac{1}{2},j}^{t\|t-1,1} & \cdots \\ & & \vdots & & \\ \cdots & \tilde u_{i+\frac{1}{2},j}^{t\|t-1,1} & \cdots & \tilde v_{i+\frac{1}{2},j}^{t\|t-1,N} & \cdots \end{bmatrix}" />|<img src="https://latex.codecogs.com/gif.latex?\cdots&space;\begin{bmatrix}&space;\cdots&space;&&space;\tilde&space;u_{i&plus;\frac{1}{2},j}^{t\|t-1,1}&space;&&space;\cdots&space;&&space;\tilde&space;v_{i&plus;\frac{1}{2},j}^{t\|t-1,1}&space;&&space;\cdots&space;\\&space;&&space;&&space;\vdots&space;&&space;&&space;\\&space;\cdots&space;&&space;\tilde&space;u_{i&plus;\frac{1}{2},j}^{t\|t-1,N}&space;&&space;\cdots&space;&&space;\tilde&space;v_{i&plus;\frac{1}{2},j}^{t\|t-1,N}&space;&&space;\cdots&space;\end{bmatrix}" title="\cdots \begin{bmatrix} \cdots & \tilde u_{i+\frac{1}{2},j}^{t\|t-1,1} & \cdots & \tilde v_{i+\frac{1}{2},j}^{t\|t-1,1} & \cdots \\ & & \vdots & & \\ \cdots & \tilde u_{i+\frac{1}{2},j}^{t\|t-1,N} & \cdots & \tilde v_{i+\frac{1}{2},j}^{t\|t-1,N} & \cdots \end{bmatrix}" />|
 |106|図4.16|<img src="https://latex.codecogs.com/gif.latex?N(0,\sigma_v^2)" title="N(0,\sigma_v^2)" />|<img src="https://latex.codecogs.com/gif.latex?N(\mathbf{x}_t,Q_t)" title="N(\mathbf{x}_t,Q_t)" />|
+|113|1行目|･･･から初期および観測誤差分散が小さい方が･･･|･･･から初期アンサンブル分散が大きく，また，観測誤差分散が小さい場合に･･･|
+|141|下から2行目|ここでは単位行列，･･･|ここで<img src="https://latex.codecogs.com/gif.latex?I" title="I" />は単位行列，･･･|
