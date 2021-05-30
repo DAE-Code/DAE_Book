@@ -8,7 +8,7 @@
 
 |頁|場所|誤|正|
 |---|---|---|---|
-|11|13行目|濃色部分|淡色部分|
+|11|下から2行目|濃色部分|淡色部分|
 |21|18行目|<img src="https://latex.codecogs.com/gif.latex?p(\mathbf{y}_{1:y})" title="p(\mathbf{y}_{1:y})" />|<img src="https://latex.codecogs.com/gif.latex?p(\mathbf{y}_{t}\|\mathbf{y}_{1:t-1})" title="p(\mathbf{y}_{t}\|\mathbf{y}_{1:t-1})" />|
 |23|図2.2|<img src="https://latex.codecogs.com/gif.latex?\Delta&space;t" title="\Delta t" />|<img src="https://latex.codecogs.com/gif.latex?\Delta&space;\tau" title="\Delta \tau" />|
 |24|下から1行目|<img src="https://latex.codecogs.com/gif.latex?\sigma_{t-1\|t-1}" title="\sigma_{t-1\|t-1}" />|<img src="https://latex.codecogs.com/gif.latex?\sigma_{t-1\|t-1}^2" title="\sigma_{t-1\|t-1}^2" />|
