@@ -7,7 +7,7 @@
 ## 初版第1刷(2021/01/15発行)の誤植 --> 初版第2刷で修正されております
 
 |頁|場所|誤|正|
-|---|---|---|---|
+|:---|:----------|---|---|
 |11|下から2行目|濃色部分|淡色部分|
 |21|18行目|<img src="https://latex.codecogs.com/gif.latex?p(\mathbf{y}_{1:t})" title="p(\mathbf{y}_{1:t})" />|<img src="https://latex.codecogs.com/gif.latex?p(\mathbf{y}_{t}\|\mathbf{y}_{1:t-1})" title="p(\mathbf{y}_{t}\|\mathbf{y}_{1:t-1})" />|
 |23|図2.2|<img src="https://latex.codecogs.com/gif.latex?\Delta&space;t" title="\Delta t" />|<img src="https://latex.codecogs.com/gif.latex?\Delta&space;\tau" title="\Delta \tau" />|
