@@ -10,8 +10,8 @@
 |---|---|---|---|
 |11|下から2行目|濃色部分|淡色部分|
 |21|18行目|<img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;p(\mathbf{y}_{1:t})" title="\small p(\mathbf{y}_{1:t})" />|<img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;p(\mathbf{y}_{t}\|\mathbf{y}_{1:t-1})" title="\small p(\mathbf{y}_{t}\|\mathbf{y}_{1:t-1})" />|
-|23|図2.2|<img src="https://latex.codecogs.com/gif.latex?\Delta&space;t" title="\Delta t" />|<img src="https://latex.codecogs.com/gif.latex?\Delta&space;\tau" title="\Delta \tau" />|
-|24|下から1行目|<img src="https://latex.codecogs.com/gif.latex?\sigma_{t-1\|t-1}" title="\sigma_{t-1\|t-1}" />|<img src="https://latex.codecogs.com/gif.latex?\sigma_{t-1\|t-1}^2" title="\sigma_{t-1\|t-1}^2" />|
+|23|図2.2|<img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;\Delta&space;t" title="\small \Delta t" />|<img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;\Delta&space;\tau" title="\small \Delta \tau" />|
+|24|下から1行目|<img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;\sigma_{t-1\|t-1}" title="\small \sigma_{t-1\|t-1}" />|<img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;\sigma_{t-1\|t-1}^2" title="\small \sigma_{t-1\|t-1}^2" />|
 |26|式(2.20)|<img src="https://latex.codecogs.com/gif.latex?\sigma_{t\|t}=\cdots" title="\sigma_{t\|t}=\cdots" />|<img src="https://latex.codecogs.com/gif.latex?\sigma_{t\|t}^2=\cdots" title="\sigma_{t\|t}^2=\cdots" />|
 |29|式(2.28)|<img src="https://latex.codecogs.com/gif.latex?J(x_1)=-\log[p(x_{1:T}\|y_{1:T})]=\cdots" title="J(x_1)=-\log[p(x_{1:T}\|y_{1:T})]=\cdots" />|<img src="https://latex.codecogs.com/gif.latex?J(x_1)=-\log[p(y_{1:T}\|x_{1:T})p(x_{1:T})]=\cdots" title="J(x_1)=-\log[p(y_{1:T}\|x_{1:T})p(x_{1:T})]=\cdots" />|
 |33|11行目|<img src="https://latex.codecogs.com/gif.latex?N(0,Q_t)" title="N(0,Q_t)" />|<img src="https://latex.codecogs.com/gif.latex?N(\mathbf{0},Q_t)" title="N(\mathbf{0},Q_t)" />|
