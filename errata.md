@@ -2,7 +2,7 @@
 
 |頁|場所|誤|正|掲載日|
 |---|---|---|---|---|
-|49|アルゴリズム下2.5|<img src="https://latex.codecogs.com/gif.latex?\fn_jvn&space;\small&space;\xi<\mathrm{rand}[0,1]" title="\small \xi<\mathrm{rand}[0,1]" />なら･･･|<img src="https://latex.codecogs.com/gif.latex?\fn_jvn&space;\small&space;\xi>\mathrm{rand}[0,1]&space;" title="\small \xi<\mathrm{rand}[0,1]" />なら･･･|2021/06/02|
+|49|アルゴリズム下2.5|<img src="https://latex.codecogs.com/gif.latex?\fn_jvn&space;\small&space;\xi<\mathrm{rand}[0,1]" title="\small \xi<\mathrm{rand}[0,1]" /> なら･･･|<img src="https://latex.codecogs.com/gif.latex?\fn_jvn&space;\small&space;\xi>\mathrm{rand}[0,1]" title="\small \xi<\mathrm{rand}[0,1]" /> なら･･･|2021/06/02|
 |100|下から3行目|･･･各列の要素の行方向の和は1になって･･･|･･･各列の要素の和は1になって･･･|2021/05/31|
 
 ## 初版1刷(2021/01/15発行)の誤記 --> 初版第2刷で修正されております
