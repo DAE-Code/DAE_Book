@@ -12,7 +12,7 @@
 |頁|場所|誤|正|
 |---|---|---|---|
 |11|下から2行目|濃色部分|淡色部分|
-|21|18行目|$p(\mathbf{y}_{1:t})$ | $p(\mathbf{y}_{t}\mid)$ <img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;p(\mathbf{y}_{t}\|\mathbf{y}_{1:t-1})" title="\small p(\mathbf{y}_{t}\|\mathbf{y}_{1:t-1})" /> |
+|21|18行目|$p(\mathbf{y}_{1:t})$ | $p(\mathbf{y}_{t}\mid\mathbf{y})$ <img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;p(\mathbf{y}_{t}\|\mathbf{y}_{1:t-1})" title="\small p(\mathbf{y}_{t}\|\mathbf{y}_{1:t-1})" /> |
 |23|図2.2|<img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;\Delta&space;t" title="\small \Delta t" />|<img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;\Delta&space;\tau" title="\small \Delta \tau" />|
 |24|下から1行目|<img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;\sigma_{t-1\|t-1}" title="\small \sigma_{t-1\|t-1}" />|<img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;\sigma_{t-1\|t-1}^2" title="\small \sigma_{t-1\|t-1}^2" />|
 |26|式(2.20)|<img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;\sigma_{t\|t}=\cdots" title="\small \sigma_{t\|t}=\cdots" />|<img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;\sigma_{t\|t}^2=\cdots" title="\small \sigma_{t\|t}^2=\cdots" />|
