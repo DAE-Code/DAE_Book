@@ -16,7 +16,7 @@
 |23|図2.2|$\Delta t$|$\Delta \tau$|
 |24|下から1行目|$\sigma_{t-1\|t-1}$|$\sigma_{t-1\|t-1}^2$|
 |26|式(2.20)|$\sigma_{t\|t}=\cdots$|$\sigma_{t\|t}^2=\cdots$|
-|29|式(2.28)|$J(x_1)=-\log[p(x_{1:T}\|y_{1:T})]=\cdots$|$J(x_1)=-\log[p(y_{1:T}\|x_{1:T})p(x_{1:T})]=\cdots$|
+|29|式(2.28)|$$J(x_1)=-\log[p(x_{1:T}\|y_{1:T})]=\cdots$$|$$J(x_1)=-\log[p(y_{1:T}\|x_{1:T})p(x_{1:T})]=\cdots$$|
 |33|11行目|$N(0,Q_t)$|$N(\mathbf{0},Q_t)$|
 |39|3行目|･･･は状態ベクトルに･･･|･･･は推定すべき確率分布に･･･|
 |43|3行目|$\cdots H\_t = \partial h\_t \/ \partial \mathbf{x}\_{t\|t-1}\cdots$|$\cdots H_t =\partial h_t \/ \partial \mathbf{x}\_{t}\cdots$|
@@ -39,6 +39,6 @@
 |113|1行目|･･･から初期および観測誤差分散が小さい方が･･･|･･･から初期アンサンブル分散が大きく，また，観測誤差分散が小さい場合に･･･|
 |141|下から2行目|ここでは単位行列，･･･|ここで<img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;I" title="\small I" />は単位行列，･･･|
 |166|9行目|ディラックのデルタ関数|クロネッカーのデルタ|
-|172|式(6.16)|$\cdots\approx-\frac{n}{2}\ln(\sigma^2)-\frac{n}{2}\ln\left\|\Phi\right\|$ <img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;\cdots\approx-\frac{n}{2}\ln(\sigma^2)-\frac{n}{2}\ln\left&space;\|\Phi&space;\right&space;\|" title="\small \cdots\approx-\frac{n}{2}\ln(\sigma^2)-\frac{n}{2}\ln\left \|\Phi \right \|" />|<img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;\cdots\approx-\frac{N}{2}\ln(\sigma^2)-\frac{1}{2}\ln\left&space;\|\Phi&space;\right&space;\|" title="\small \cdots\approx-\frac{N}{2}\ln(\sigma^2)-\frac{1}{2}\ln\left \|\Phi \right \|" />|
+|172|式(6.16)|$$\cdots\approx-\frac{n}{2}\ln(\sigma^2)-\frac{n}{2}\ln\left\|\Phi\right\|$$ <img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;\cdots\approx-\frac{n}{2}\ln(\sigma^2)-\frac{n}{2}\ln\left&space;\|\Phi&space;\right&space;\|" title="\small \cdots\approx-\frac{n}{2}\ln(\sigma^2)-\frac{n}{2}\ln\left \|\Phi \right \|" />|<img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;\cdots\approx-\frac{N}{2}\ln(\sigma^2)-\frac{1}{2}\ln\left&space;\|\Phi&space;\right&space;\|" title="\small \cdots\approx-\frac{N}{2}\ln(\sigma^2)-\frac{1}{2}\ln\left \|\Phi \right \|" />|
 |172|8行目|$\sigma^2=((\mathbf{y}-\mathbf{1}\mu)^{\mathrm{T}}\Phi^{-1}(\mathbf{y}-\mathbf{1}\mu))/n$|$\sigma^2=((\mathbf{y}-\mathbf{1}\mu)^{\mathrm{T}}\Phi^{-1}(\mathbf{y}-\mathbf{1}\mu))/N$|
 |183|6行目|･･･では観測システム実験･･･|･･･では観測システムシミュレーション実験･･･|
