@@ -16,7 +16,7 @@
 |23|図2.2|$\Delta t$|$\Delta \tau$|
 |24|下から1行目|$\sigma_{t-1\|t-1}$|$\sigma_{t-1\|t-1}^2$|
 |26|式(2.20)|$\sigma_{t\|t}=\cdots$|$\sigma_{t\|t}^2=\cdots$|
-|29|式(2.28)|$J(x_1)=-\log[p(x_{1:T}\|y_{1:T})]=\cdots$<img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;J(x_1)=-\log[p(x_{1:T}\|y_{1:T})]=\cdots" title="\small J(x_1)=-\log[p(x_{1:T}\|y_{1:T})]=\cdots" />|<img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;J(x_1)=-\log[p(y_{1:T}\|x_{1:T})p(x_{1:T})]=\cdots" title="\small J(x_1)=-\log[p(y_{1:T}\|x_{1:T})p(x_{1:T})]=\cdots" />|
+|29|式(2.28)|$J(x_1)=-\log[p(x_{1:T}\|y_{1:T})]=\cdots$|$J(x_1)=-\log[p(y_{1:T}\|x_{1:T})p(x_{1:T})]=\cdots$<img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;J(x_1)=-\log[p(y_{1:T}\|x_{1:T})p(x_{1:T})]=\cdots" title="\small J(x_1)=-\log[p(y_{1:T}\|x_{1:T})p(x_{1:T})]=\cdots" />|
 |33|11行目|<img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;N(0,Q_t)" title="\small N(0,Q_t)" />|<img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;N(\mathbf{0},Q_t)" title="\small N(\mathbf{0},Q_t)" />|
 |39|3行目|･･･は状態ベクトルに･･･|･･･は推定すべき確率分布に･･･|
 |43|3行目|<img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;\cdots&space;H_t&space;=&space;\partial&space;h_t&space;/&space;\partial&space;\mathbf{x}_{t\|t-1}&space;\cdots" title="\small \cdots H_t = \partial h_t / \partial \mathbf{x}_{t\|t-1} \cdots" />|<img src="https://latex.codecogs.com/svg.latex?\fn_jvn&space;\small&space;\cdots&space;H_t&space;=&space;\partial&space;h_t&space;/&space;\partial&space;\mathbf{x}_{t}&space;\cdots" title="\small \cdots H_t = \partial h_t / \partial \mathbf{x}_{t} \cdots" />|
