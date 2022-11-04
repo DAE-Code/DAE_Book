@@ -34,7 +34,7 @@
 |78|15行目|･･･の桑原邦夫先生･･･|･･･の桑原邦郎先生･･･|
 |90|図4.4|$N(\mathbf{0},Q\_t)$|$N(\mathbf{x}\_t,Q_t)$|
 |97|2行目|図4.9(a)に示すように･･･|図4.9(a1)に示すように･･･|
-|98|式(4.15)|$\cdots\left\[\matrix{\cdots & \tilde u_{i&plus;\frac{1}{2},j}^{t\|t-1,1} & \cdots & \tilde v_{i,j&plus;\frac{1}{2}}^{t\|t-1,1} & \cdots \cr & & \vdots & &  \cr \cdots & \tilde u_{i&plus;\frac{1}{2},j}^{t\|t-1,1} & \cdots & \tilde v_{i,j&plus;\frac{1}{2}}^{t\|t-1,N} & \cdots }\right\]$ | $\cdots\left\[\matrix{ \cdots & \tilde u_{i&plus;\frac{1}{2},j}^{t\|t-1,1} & \cdots & \tilde v_{i,j&plus;\frac{1}{2}}^{t\|t-1,1} & \cdots \cr & & \vdots & &  \cr  \cdots & \tilde u_{i&plus;\frac{1}{2},j}^{t\|t-1,N} & \cdots & \tilde v_{i,j&plus;\frac{1}{2}}^{t\|t-1,N} & \cdots }\right\]$|
+|98|式(4.15)|$\cdots\left\[\matrix{\cdots & \tilde u_{i&plus;\frac{1}{2},j}^{t\|t-1,1} & \cdots & \tilde v_{i,j&plus;\frac{1}{2}}^{t\|t-1,1} & \cdots \cr & & \vdots & &  \cr \cdots & \tilde u_{i&plus;\frac{1}{2},j}^{t\|t-1,1} & \cdots & \tilde v_{i,j&plus;\frac{1}{2}}^{t\|t-1,N} & \cdots }\right\]$ | $\cdots\left\[\matrix{ \cdots & \tilde u_{i&plus;\frac{1}{2},j}^{t\|t-1,1} & \cdots & \tilde v_{i,j&plus;\frac{1}{2}}^{t\|t-1,1} & \cdots \cr & & \vdots & &  \cr  \;\cdots & \tilde u_{i&plus;\frac{1}{2},j}^{t\|t-1,N} & \cdots & \tilde v_{i,j&plus;\frac{1}{2}}^{t\|t-1,N} & \cdots\; }\right\]$|
 |106|図4.16|$N(0,\sigma\_v^2)$|$N(\mathbf{x}\_t,Q\_t)$|
 |113|1行目|･･･から初期および観測誤差分散が小さい方が･･･|･･･から初期アンサンブル分散が大きく，また，観測誤差分散が小さい場合に･･･|
 |141|下から2行目|ここでは単位行列，･･･|ここで $I$ は単位行列，･･･|
