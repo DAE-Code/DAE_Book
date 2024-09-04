@@ -7,7 +7,7 @@
 |64|式(3.12)|$\cdots-u_{\frac{1}{2},j}^t\frac{-u_{i&plus;\frac{5}{2},j}^t&plus;8(u_{i&plus;\frac{3}{2},j}^t-u_{i-\frac{1}{2},j}^t)&plus;u_{i-\frac{3}{2},j}^t}{\Delta x}+\cdots$ $\cdots-v_{i&plus;\frac{1}{2},j}^t\frac{-u_{i&plus;\frac{1}{2},j&plus;2}^t&plus;8(u_{i&plus;\frac{1}{2},j&plus;1}^t-u_{i&plus;\frac{1}{2},j-1}^t)&plus;u_{i&plus;\frac{1}{2},j-2}^t}{\Delta y}+\cdots$|$\cdots -u_{i&plus;\frac{1}{2},j}^t\frac{-u_{i&plus;\frac{5}{2},j}^t&plus;8(u_{i&plus;\frac{3}{2},j}^t-u_{i-\frac{1}{2},j}^t)&plus;u_{i-\frac{3}{2},j}^t}{\Delta x}+\cdots$ $\cdots -v_{i&plus;\frac{1}{2},j}^t\frac{-u_{i&plus;\frac{1}{2},j&plus;2}^t&plus;8(u_{i&plus;\frac{1}{2},j&plus;1}^t-u_{i&plus;\frac{1}{2},j-1}^t)&plus;u_{i&plus;\frac{1}{2},j-2}^t}{\Delta y}+\cdots$ |
 |100|下から3行目|･･･各列の要素の行方向の和は1になって･･･|･･･各列の要素の和は1になって･･･|
 |101|図4.11|各列の行方向要素の和は1|各列の要素の和は1|
-|101|図4.12|tr $\hat V_{t\|t-1}$|$\hat V_{t\|t-1}$の対角成分|
+|101|図4.12|$\rm{tr} \hat V_{t\|t-1}$|$\hat V_{t\|t-1}$の対角成分|
 
 ## 初版1刷(2021/01/15発行)の誤記 --> 初版2刷で修正されております
 
