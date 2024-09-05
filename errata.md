@@ -28,7 +28,7 @@
 |43|5行目|$\cdots F_t = \partial f_t \/ \partial \mathbf{x}\_{t\|t-1}\cdots$|$\cdots F_t = \partial f_t \/ \partial \mathbf{x}\_{t}\cdots$|
 |43|式(2.57)|$\delta L=\delta\mathbf{x}\_0^{\mathrm{T}}\big[F_0 \boldsymbol{\lambda}\_1 + \cdots \big]+$  $$\cdots + \sum_{t=1}^{T} \big[f_{t-1}(\mathbf{x}\_{t-1})-\mathbf{x}\_t\big]^{\mathrm{T}}\boldsymbol{\lambda}\_t$$|$\delta L=\delta\mathbf{x}\_0^{\mathrm{T}}\big[F_0^{\mathrm{T}} \boldsymbol{\lambda}\_1 + \cdots \big]+$ $$\cdots + \sum_{t=1}^{T} \big[f_{t-1}(\mathbf{x}\_{t-1})-\mathbf{x}\_t\big]^{\mathrm{T}}\delta\boldsymbol{\lambda}\_t$$|
 |43|式(2.58)|$\frac{\partial L}{\partial \mathbf{x}\_0} = F_0 \boldsymbol{\lambda}\_1 + \cdots$|$\frac{\partial L}{\partial \mathbf{x}\_0} = F_0^{\mathrm{T}} \boldsymbol{\lambda}\_1 + \cdots$|
-|44|式(2.60)|$\nabla_{\mathbf{x}\_0} J =\nabla_{\mathbf{x}\_0} L = \frac{\partial L}{\partial \mathbf{x}\_0} = F_0 \boldsymbol{\lambda}\_1 + \cdots$|$\nabla_{\mathbf{x}\_0} J =\nabla_{\mathbf{x}\_0} L = \frac{\partial L}{\partial \mathbf{x}\_0} = F_0^{\mathrm{T}} \boldsymbol{\lambda}\_1 + \cdots$|
+|44|式(2.60)|$\nabla_{\mathbf{x}\_0} J =\nabla_{\mathbf{x}\_0} L = \frac{\partial L}{\partial \mathbf{x}\_0} = F_0 \boldsymbol{\lambda}\_1 + \cdots$|$\nabla_{\mathbf{x}\_0} J =\nabla_{\mathbf{x}\_0} L = \frac{\partial L}{\partial \mathbf{x}\_0} = F_0^{{\color{red}\mathrm{T}}} \boldsymbol{\lambda}\_1 + \cdots$|
 |44|14行目|2.3.3項でも･･･|2.2.3項でも･･･|
 |49|アルゴリズム2.5|$N(0,Q_t)$|$N(\mathbf{0},Q_t)$|
 |53|式(2.74)|$\cdots +K_t(\mathbf{y}\_t^n-H_t\mathbf{x}\_{t\|t-1}^n)$|$\cdots +\hat K_t(\mathbf{y}\_t^n-H_t\mathbf{x}\_{t\|t-1}^n)$|
