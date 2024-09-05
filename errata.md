@@ -44,6 +44,6 @@
 |113|1行目|･･･から初期および観測誤差分散が小さい方が･･･|･･･から初期アンサンブル分散が大きく，また，観測誤差分散が小さい場合に･･･|
 |141|下から2行目|ここでは単位行列，･･･|ここで $I$ は単位行列，･･･|
 |166|9行目|ディラックのデルタ関数|クロネッカーのデルタ|
-|172|式(6.16)|$\cdots\approx-\dfrac{n}{2}\ln(\sigma^2)-\dfrac{n}{2}\ln\left\|\Phi\right\|$|$\cdots\approx-\dfrac{N}{2}\ln(\sigma^2)-\dfrac{1}{2}\ln\left\|\Phi\right\|$|
-|172|8行目|$\sigma^2=((\mathbf{y}-\mathbf{1}\mu)^{\mathrm{T}}\Phi^{-1}(\mathbf{y}-\mathbf{1}\mu))/n$|$\sigma^2=((\mathbf{y}-\mathbf{1}\mu)^{\mathrm{T}}\Phi^{-1}(\mathbf{y}-\mathbf{1}\mu))/N$|
+|172|式(6.16)|$\cdots\approx-\dfrac{{\color{red}n}}{2}\ln(\sigma^2)-\dfrac{{\color{red}n}}{2}\ln\left\|\Phi\right\|$|$\cdots\approx-\dfrac{{\color{red}N}}{2}\ln(\sigma^2)-\dfrac{{\color{red}1}}{2}\ln\left\|\Phi\right\|$|
+|172|8行目|$\sigma^2=((\mathbf{y}-\mathbf{1}\mu)^{\mathrm{T}}\Phi^{-1}(\mathbf{y}-\mathbf{1}\mu))/{\color{red}n}$|$\sigma^2=((\mathbf{y}-\mathbf{1}\mu)^{\mathrm{T}}\Phi^{-1}(\mathbf{y}-\mathbf{1}\mu))/{\color{red}N}$|
 |183|6行目|･･･では観測システム実験･･･|･･･では観測システムシミュレーション実験･･･|
