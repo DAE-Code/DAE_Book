@@ -37,7 +37,7 @@
 |64|式(3.13)|$\cdots-u_{i,j+\frac{1}{2}}^t\frac{-v_{i+2,j+\frac{1}{2}}^t+8(v_{i+1,j+\frac{1}{2}}^t+v_{i-1,j+\frac{1}{2}}^t)+v_{i-2,j+\frac{1}{2}}^t}{\Delta x}+\cdots$  $\cdots -v_{i,j+\frac{1}{2}}^t\frac{-v_{i,j+\frac{5}{2}}^t+8(v_{i,j+\frac{3}{2}}^t+v_{i,j-\frac{1}{2}}^t)+v_{i,j-\frac{3}{2}}^t}{\Delta y}+\cdots$|$\cdots-u_{i,j+\frac{1}{2}}^t\frac{-v_{i+2,j+\frac{1}{2}}^t+8(v_{i+1,j+\frac{1}{2}}^t-v_{i-1,j+\frac{1}{2}}^t)+v_{i-2,j+\frac{1}{2}}^t}{\Delta x}+\cdots$  $\cdots -v_{i,j+\frac{1}{2}}^t\frac{-v_{i,j+\frac{5}{2}}^t+8(v_{i,j+\frac{3}{2}}^t-v_{i,j-\frac{1}{2}}^t)+v_{i,j-\frac{3}{2}}^t}{\Delta y}+\cdots$
 |65|式(3.15)|$\delta p_{i,j}^s=\frac{\beta\bar D_{i,j}^s}{2\Delta\tau\Big[\frac{1}{(\Delta x)^2}+\frac{1}{(\Delta y)^2}\Big]}$|$\delta p_{i,j}^s=-\frac{\beta\bar D_{i,j}^s}{2\Delta\tau\Big[\frac{1}{(\Delta x)^2}+\frac{1}{(\Delta y)^2}\Big]}$|
 |78|15行目|･･･の桑原邦夫先生･･･|･･･の桑原邦郎先生･･･|
-|90|図4.4|$N(\mathbf{0},Q\_t)$|$N(\mathbf{x}\_t,Q_t)$|
+|90|図4.4|$N({\color{red}\mathbf{0}},Q\_t)$|$N({\color{red}\mathbf{x}\_t},Q_t)$|
 |97|2行目|図4.9(a)に示すように･･･|図4.9(a1)に示すように･･･|
 |98|式(4.15)|$\cdots\left\[\matrix{\cdots & \tilde u_{i&plus;\frac{1}{2},j}^{t\|t-1,1} & \cdots & \tilde v_{i,j&plus;\frac{1}{2}}^{t\|t-1,1} & \cdots \cr & & \vdots & &  \cr \cdots & \tilde u_{i&plus;\frac{1}{2},j}^{t\|t-1,1} & \cdots & \tilde v_{i,j&plus;\frac{1}{2}}^{t\|t-1,N} & \cdots }\right\]$ | $\cdots\left\[\matrix{ \quad\cdots & \tilde u_{i&plus;\frac{1}{2},j}^{t\|t-1,1} & \cdots & \tilde v_{i,j&plus;\frac{1}{2}}^{t\|t-1,1} & \cdots\quad \cr & & \vdots & &  \cr \quad\cdots & \tilde u_{i&plus;\frac{1}{2},j}^{t\|t-1,N} & \cdots & \tilde v_{i,j&plus;\frac{1}{2}}^{t\|t-1,N} & \cdots\quad }\right\]$|
 |106|図4.16|$N(0,\sigma\_v^2)$|$N(\mathbf{x}\_t,Q\_t)$|
