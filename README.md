@@ -6,4 +6,4 @@
 
 # 正誤表
 
-正誤表は[こちら](https://github.com/DAE-Code/DAE_Book/blob/main/errata.md)です．初版2刷で反映されている修正もございます．
+正誤表は[こちら](https://github.com/DAE-Code/DAE_Book/blob/main/errata.md)です．
